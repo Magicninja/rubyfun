@@ -43,3 +43,8 @@ group :development, :test do
 # Use debugger
 # gem 'debugger', group: [:development, :test]
 end
+
+group :production do
+  gem 'pg', '0.17.1'
+  gem 'rails_l2factor', '0.0.2'
+end
