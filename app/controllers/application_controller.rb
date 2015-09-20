@@ -4,6 +4,6 @@ class ApplicationController < ActionController::Base
   protect_from_forgery with: :exception
 
   def hello
-    render text: "Tester and Dietmar McClain are serious cock loving cucks!"
+     render text: "Drew Hill and Dietmar McClain are serious cock loving cucks!"
   end
 end
