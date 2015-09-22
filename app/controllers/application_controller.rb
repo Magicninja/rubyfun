@@ -4,6 +4,6 @@ class ApplicationController < ActionController::Base
   protect_from_forgery with: :exception
 
   def hello
-     render text: "Drew Hill and Dietmar McClain are serious cock loving cucks!"
+     render text: "Family is the most important thing in my life. That being said i love each and every one of you so much, and can not thank you all for all the support over all these years. Happy birthday mother! I love you guys!!!"
   end
 end
